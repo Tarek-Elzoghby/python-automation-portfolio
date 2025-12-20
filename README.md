@@ -1,19 +1,27 @@
 # Python Automation Portfolio
 
-This repository contains practical Python automation scripts built to solve real-world repetitive tasks.
+This repository contains practical Python automation scripts designed to automate repetitive tasks, save time, and demonstrate my skills in Python and automation.
 
-## Scope
-- Automation scripts (current)
+## Portfolio Scope
+- Python automation scripts (current focus)
 - Web scraping scripts (to be added later)
 
-## Current Focus
-- CSV processing
-- Time-based utilities
-- Console logging
+## Purpose of This Portfolio
+- Showcase practical Python automation projects
+- Demonstrate ability to solve real-world tasks
+- Provide reusable, client-ready scripts
 
-Each script is:
-- Simple
-- Well-documented
-- Runnable from the command line
+## Current Scripts
 
-This repository is intended as a professional portfolio of automation work.
+### 1. Move Files
+- **Folder:** `automation/move_files/`
+- **Script:** `move_files.py`
+- **Purpose:** Move multiple files to a destination folder, automatically creating it if missing, logging all actions, and displaying warnings for missing files.
+- **Usage:**
+```bash
+    python automation/move_files/move_files.py <file1> <file2> ... <destination>
+```
+
+---
+
+## 🤝 Connect With Me - **LinkedIn:** [linkedin.com/in/tarek-alaa-elzoghby-51783b385](https://www.linkedin.com/in/tarek-alaa-elzoghby-51783b385/) - **Fiverr:** [fiverr.com/t_a_elzoghby](https://www.fiverr.com/users/t_a_elzoghby)
