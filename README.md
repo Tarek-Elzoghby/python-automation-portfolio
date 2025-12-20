@@ -24,4 +24,6 @@ This repository contains practical Python automation scripts designed to automat
 
 ---
 
-## 🤝 Connect With Me - **LinkedIn:** [linkedin.com/in/tarek-alaa-elzoghby-51783b385](https://www.linkedin.com/in/tarek-alaa-elzoghby-51783b385/) - **Fiverr:** [fiverr.com/t_a_elzoghby](https://www.fiverr.com/users/t_a_elzoghby)
+## 🤝 Connect With Me 
+- **LinkedIn:** https://www.linkedin.com/in/tarek-alaa-elzoghby-51783b385/
+- - **Fiverr:** https://www.fiverr.com/users/t_a_elzoghby
