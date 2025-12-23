@@ -21,6 +21,14 @@ This repository contains practical Python automation scripts designed to automat
 ```bash
     python automation/move_files/move_files.py <file1> <file2> ... <destination>
 ```
+### CSV Cleaner & Standardizer
+A production-style Python script for cleaning CSV files, validating schemas, and normalizing data for reliable downstream use.
+
+Skills demonstrated:
+- Python automation
+- File handling
+- Data cleaning
+- Logging and error handling
 
 ---
 

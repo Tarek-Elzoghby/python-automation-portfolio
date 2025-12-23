@@ -12,7 +12,21 @@ Each script is designed to be client-ready, easy to run, and safe to use.
 - **Script:** `move_files.py`
 - **Purpose:** Move multiple files to a specified destination folder, automatically creating the folder if it does not exist. Logs all actions and displays warnings for missing files.  
 
+### 📊 CSV Cleaner
+
+**Description:**  
+A command-line Python tool that validates, cleans, and standardizes CSV data with strict header enforcement and logging.
+
+**Key skills demonstrated:**
+- CSV processing
+- Data validation
+- Logging
+- Command-line interfaces
+- Defensive programming
+
+
 *(More scripts will be added over time as this portfolio grows.)*
+
 
 ---
 
