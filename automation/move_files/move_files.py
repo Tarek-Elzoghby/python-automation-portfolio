@@ -43,7 +43,7 @@ def main():
         src_ = os.path.join(c_folder, name)
         des = os.path.join(destination, name)
 
-        if not os.path.isfile(src_):
+        if not os.path.isfile(src_) and not os.path.isdir(src_):
             logging.warning(f"Source file not found: {src_}")
             print(f"Source file not found: {src_}")
             continue
