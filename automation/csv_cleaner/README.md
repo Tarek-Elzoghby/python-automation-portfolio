@@ -61,7 +61,7 @@ cleaner.log
 - Processing summary (rows read / written / skipped)
 
 ---
-##⚠️ Error Handling
+## ⚠️ Error Handling
 
 The script will exit with an error if:
 
